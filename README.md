@@ -174,6 +174,7 @@ Dashboard Preview
 
 The following screenshots showcase the key sections and interactive visuals of the Mobile Sales Dashboard:
 
+<img width="1297" height="675" alt="Mobile_Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/abc4b9cc-3d28-4c2a-9f7c-515677194fa5" />
 https://github.com/Praveenkumarr26/Mobile-Sales-Dashboard/blob/main/Mobile_Sales_Dashboard_Preview.png
 
 
